@@ -1,4 +1,4 @@
 ---
 collections:
 
-- name: https://ignite.demolab.local/awx-awx-17.0.1.tar.gz
+- name: http://ignite.demolab.local/awx-awx-17.0.1.tar.gz
